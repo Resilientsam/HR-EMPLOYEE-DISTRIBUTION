@@ -27,4 +27,4 @@ In the initial data preparation phase, we performed the following task:
 4. Data cleaning and Formatting
 5. Data Analysis proper.
 
- ### Exploratory Data Analysis
+### Exploratory Data Analysis
