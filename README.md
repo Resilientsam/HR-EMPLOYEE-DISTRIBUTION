@@ -28,3 +28,19 @@ In the initial data preparation phase, we performed the following task:
 5. Data Analysis proper.
 
 ### Exploratory Data Analysis
+
+EDA involves exploring the HR employee data to answer key questions such as:
+
+- What is the gender breakdown of employees in the company
+- What is the race/ethnicity breakdown of employees in the company
+- What is the age distribution of employees in the company
+- How many employees work at the headquarters versus remote location
+- What is the average length of employment for employees who have been terminated
+- How does the gender distribution vary across departments and job titles
+- What is the distribution of job titles across the company
+- What department has the highest turnover rate
+- What is the distribution of employees across location by city and state
+- How has the company's employees count changed over time based on hire or termdates
+- What is the tenure distribution for each department
+
+### Data Analysis
